@@ -39,7 +39,5 @@ To explore the code and data further or run the dashboard locally, download the 
 
 Connect with me on LinkedIn for more updates and discussions: [Vishnu Kanth K](https://www.linkedin.com/in/vishnukanth-k-a5552327b/)
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
