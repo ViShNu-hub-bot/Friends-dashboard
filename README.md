@@ -4,7 +4,8 @@ Welcome to the Friends Series Dashboard project! This dashboard provides insight
 
 ## Preview
 
-[![Watch the video preview](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+![Friends Series Dashboard Preview](Screenshot%20(127).png)
+
 
 Click the image above to watch a video preview of the dashboard.
 
